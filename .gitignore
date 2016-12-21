@@ -4,9 +4,9 @@
 *~
 *.log
 *.tmp
-target/
-project/
-programs/target/
+scala/target/
+scala/project/
+scala/programs/target/
 .\#*
 \#*\#
 .idea
