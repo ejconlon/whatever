@@ -1,12 +1,15 @@
 *.swo
-*.bak
 *.swp
 *~
-*.log
 *.tmp
+*.bak
+*.log
+*.o
+*.a
 scala/target/
 scala/project/
 scala/programs/target/
+haskell/.stack-work/
 .\#*
 \#*\#
 .idea
