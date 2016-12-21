@@ -5,3 +5,7 @@ run:
 
 test:
 	py.test -v --capture=no test_whatever.py
+
+notebook:
+	jupyter notebook whatever.ipynb
+
