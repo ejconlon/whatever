@@ -6,10 +6,13 @@
 *.log
 *.o
 *.a
+*.pyc
 scala/target/
 scala/project/
 scala/programs/target/
 haskell/.stack-work/
+python/.cache/
+python/__pycache__/
 .\#*
 \#*\#
 .idea
